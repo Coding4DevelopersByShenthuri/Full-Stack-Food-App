@@ -27,7 +27,7 @@
 
 # Packages used #
 
-<---Prettier ignore--->
+
 | Name |                                 |Links|                                           |Description|
 
 ReactJs                     [React](https://react.dev/)                                   React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.
